@@ -4,7 +4,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
 target 'focus' do
-
+    pod 'CrashlyticsFramework'
 end
 
 target 'focusTests' do
